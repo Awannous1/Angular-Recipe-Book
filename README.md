@@ -25,3 +25,26 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## How To Run?
+
+To get a local copy up and running follow these simple example steps.
+
+This is a list of things you need to run the software and how to install them.
+
+Update your npm
+`npm install npm@latest -g`
+
+##installation
+
+1.Clone the repo to your cmd
+`git clone https://github.com/Awannous1/Angular-Recipe-book.git`
+
+2.Install npm package
+`npm install # install package`
+
+3.To fix it 
+`npm audit fix`
+
+4.To serve
+`ng serve -o`
